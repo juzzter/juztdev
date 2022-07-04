@@ -21,9 +21,9 @@ body {
 .subcontainer {
     display: grid;
     min-height: 35vh;
-    min-width: 60vw;
-    grid-template-columns: 30vw 1vw 30vw;
-    grid-template-rows: auto auto 4vw;
+    min-width: 80vw;
+    grid-template-columns: 30vw 1.5vw 50vw;
+    grid-template-rows: auto auto 6vw;
 }
 
 .foto {
@@ -36,7 +36,6 @@ body {
     margin: 0;
     padding: 0;
     background-color: #9bafba;
-    
 }
 
 .juzt {
@@ -46,7 +45,7 @@ body {
     justify-content: center;
     align-items: center;
     color: #143956;
-    font-size: 2.1vw;
+    font-size: 2.5vw;
     font-family: 'Glacial';
     font-style: italic;
 }
@@ -59,7 +58,7 @@ body {
     justify-content: center;
     align-items: center;
     color: #143956;
-    font-size: 1.8vw;
+    font-size: 2vw;
     font-family: 'CY grotesk';
 }
 
@@ -68,7 +67,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 2.3vw;
+    font-size: 2.5vw;
     color: white;
     background-color: #143956;
     font-family: 'Glacial';
@@ -81,8 +80,8 @@ body {
 
 .square {
     background-color: #143956;
-    width: 1.5vw;
-    height: 1.5vw;
+    width: 2vw;
+    height: 2vw;
     display: flex;
     justify-self: end;
     align-self: end;
