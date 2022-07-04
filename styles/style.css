@@ -23,6 +23,7 @@ body {
     min-height: 35vh;
     min-width: 60vw;
     grid-template-columns: 30vw 1vw 30vw;
+    grid-template-rows: auto auto 4vw;
 }
 
 .foto {
