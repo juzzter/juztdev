@@ -1,1 +1,1 @@
-# juztdev.github.io
+# juztdev
