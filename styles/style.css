@@ -21,7 +21,7 @@
     }
 
     .subcontainer {
-        min-height: 85vh;
+        min-height: 60vh;
         min-width: 100vw;
     }
 
@@ -71,9 +71,9 @@
     .squarecontainer {
         padding: 0;
         margin: 0;
-        min-height: 10vh;
         display: grid;
         margin-right: 2vw;
+        height: 40vh;
     }
 
     .square {
