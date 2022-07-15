@@ -60,13 +60,19 @@
         font-family: 'CY grotesk';
     }
 
-    .dev {
+    .devcontainer {
+        display: grid;
+        place-content: center;
         margin-top: 2vh;
-        height: 10vh;
+        height: 8vh;
+    }
+    .dev {
+        height: 8vh;
+        width: 70vw;
         display: flex;
         justify-content: center;
         align-items: center;
-        font-size: 3vw;
+        font-size: 5vw;
         color: white;
         background-color: #143956;
         font-family: 'Glacial';
